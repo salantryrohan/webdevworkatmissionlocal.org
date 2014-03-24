@@ -15,7 +15,6 @@ Events: Displays a automatically updated events on the home page. We allow users
 missionlocal.org
 
 
-
 Volunteer page: nonprofits can register themselves with us, create volunteer events. Users can search for specific events and decide to volunteer. Created using custom php templates.
 
 
@@ -23,10 +22,3 @@ Moving-mural’s contest: User submitted bus murals, I had to figure out a way t
 
 http://missionlocal.org/techbusesmovingmurals/
 
-Screen Shot 2014-03-15 at 8.02.17 PM
-
- 
-
- 
-
-About these ads
