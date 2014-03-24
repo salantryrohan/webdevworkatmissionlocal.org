@@ -1,7 +1,6 @@
-Posted on March 16, 2014 by salantryrohan — Leave a comment
 Mission Local is a project of U.C. Berkeley’s Graduate School of Journalism. Mission Local believes that by covering a neighborhood fairly and thoroughly, we can build community and a sustainable model for quality journalism. We’re a mix of students, professionals and community members. I am the primary web developer for the application.
 
-I work with professor Lydia Chavez and other students from the school of journalism to implement custom php pages and plugin’s to drive user engagement and increase viewership of the site missionlocal.org. T
+I work with professor Lydia Chavez and other students from the school of journalism to implement custom php pages and plugin’s to drive user engagement and increase viewership of the site missionlocal.org
 
 Some of the the projects I have worked on include :
 
